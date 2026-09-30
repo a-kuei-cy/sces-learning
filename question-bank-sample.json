@@ -1,0 +1,16 @@
+{
+  "subjects": [
+    {
+      "name": "英語",
+      "units": [
+        {
+          "name": "School Life",
+          "questions": [
+            {"question":"Which word means「老師」?","options":["Teacher","Student","Doctor","Farmer"],"answer":"Teacher"},
+            {"question":"Good morning! 的意思是？","options":["早安","晚安","謝謝","再見"],"answer":"早安"}
+          ]
+        }
+      ]
+    }
+  ]
+}
